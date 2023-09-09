@@ -38,6 +38,6 @@ increase the impact of the project by using more effective css in the projects.
 https://react-sass-scss.netlify.app/
 ### At the end of the project, following topics are to be covered;
 - HTML
-- CSS
+- SCSS
 - JS
 - ReactJS
